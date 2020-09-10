@@ -45,7 +45,7 @@
 
 .information{
     /* border: 1px solid blue; */
-    padding: 5em 5em 5em 0em;
+    padding: 5em 2em 5em 0em;
 
 }
 
@@ -55,12 +55,9 @@
     margin: 0.3em 0em;
     letter-spacing: -1px;
     opacity: .8;
-    text-align: justify;
     position: relative;;
     animation-name: title;
-     /* animation-delay: 1s;  */
     animation-duration: 1s;
-    /* display: none; */
 }
 @keyframes title{
     
